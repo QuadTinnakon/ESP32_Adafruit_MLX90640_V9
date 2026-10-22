@@ -1,6 +1,6 @@
 # ESP32_Adafruit_MLX90640_V9
 ESP32_Adafruit_MLX90640_V9  PID Controller   4-Wheel Drive Electric Vehicle
 
-<img width="1153" height="2048" alt="Image" src="https://github.com/user-attachments/assets/406c3ba0-2dbe-4cbe-8be9-9405ae7b8750" />
+<img width="1364" height="768" alt="Image" src="https://github.com/user-attachments/assets/406c3ba0-2dbe-4cbe-8be9-9405ae7b8750" />
 
-<img width="1153" height="2048" alt="Image" src="https://github.com/user-attachments/assets/f0b68671-dfc5-4dd6-b1e2-670ce1ba9c4e" />
+<img width="1364" height="768" alt="Image" src="https://github.com/user-attachments/assets/f0b68671-dfc5-4dd6-b1e2-670ce1ba9c4e" />
